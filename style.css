@@ -1,0 +1,448 @@
+#background{
+background-image: url("images/desert2.jpeg");
+color: white;
+background-repeat: no-repeat;
+background-size: cover;
+object-fit: cover;
+
+}
+#choose{
+background-image: url(images/green.webp);
+background-repeat: no-repeat;
+background-size: cover;
+width: 900px;
+height: 400px;
+object-fit: cover;
+justify-content: center;
+margin-left: 500px;
+margin-bottom: 100px;
+margin-top: 50px;
+color: white;
+}
+#timeless{
+background-image: url("images/hlls.jpg");
+width:800px ;
+height: 400px;
+}
+#top nav {
+background-color: white;
+border-radius: 20px;
+width: 350px;
+height: 50px;
+margin-left: 10px;
+}
+
+#home img{
+width: 100px;
+height: 50px;
+margin-top: 15px;
+object-fit: cover;
+}
+#home a{
+margin-top: 30px;
+color: black;
+
+}
+#home{
+display: flex;
+justify-content: space-evenly;
+gap: 40px;
+background-color:white;
+border-radius: 40px;
+margin-bottom: 55px;
+height: 80px;
+width: 850px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+justify-content:center;
+
+}
+#home button{
+height: 50px;
+width: 100px;
+margin-top:15px ;
+margin-right:50px;
+border-radius: 30px;
+border: none;
+background-color: orange;
+
+}
+#item button{
+height: 60px;
+width: 250px;
+border-radius:30px;
+border: none;
+background-color: orange;
+color: white;
+font-weight: bold;
+font-size: medium;
+justify-content: center;
+}
+#item{
+justify-content: center;
+
+}
+#item span{
+font-size: 50px;
+margin-top: 50px;
+
+}
+#item img{
+background-color: white;
+border-radius: 50%;
+width: 40px;
+height: 40px;
+margin-left: 10px;
+
+}
+#item p{
+margin-bottom: 40px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 100px;
+}
+#world span{
+font-family: 'Times New Roman', Times, serif;
+font-size: xx-large;
+display: flex;
+justify-content: center;
+}
+#world p{
+display: flex;
+justify-content: center;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#beauty{
+display: flex;
+justify-content: space-evenly;
+justify-content: space-around;
+gap: 50px;
+}
+#beauty img{
+height: 400px;
+width: 400px;
+object-fit: cover;
+border-radius: 20px;
+
+}
+#rate{
+display: flex;
+gap: 100px;
+justify-content: center;
+}
+#rate img{
+height: 15px;
+width: 15px;
+
+
+}
+#previous{
+background-color:white ;
+color: black;
+border-radius: 50%;
+text-decoration-line: none;
+border: solid ;
+height: 45px;
+width: 45px;
+}
+#next{
+background-color: orange;
+color: white;
+height: 50px;
+width: 50px;
+border-radius: 50%;
+text-decoration-line: none;
+}
+#back{
+display: flex;
+justify-content:center;
+gap: 50px;
+
+}
+#sticker figcaption{
+justify-content: center;
+
+
+}
+#sticker span{
+font-size:x-large;
+font-weight: bold;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#grand span{
+color: grey;
+font-size: 15px;
+}
+#features{
+text-align: center;
+font-size: xx-large;
+
+}
+#adventures{  
+display: flex;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-around;
+}
+#adventures img{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+
+}
+#top{
+font-size:xx-large;
+text-align: center;
+font-weight: bold;
+}
+#unique span{
+font-weight: bold;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+
+}
+#unique label{
+text-align: center;
+
+}
+#countries{
+display: flex;
+gap: 20px;
+justify-content: space-around;
+justify-content: center;
+}
+#several button{
+width: 120px;
+height: 40px;
+border-radius: 30px;
+border-color: grey;
+
+}
+#italy button{
+width: 90px;
+height:40px ;
+border-radius: 30px;
+color: orange;
+border-color: orange;
+}
+#france button{
+width: 100px;
+height: 40px;
+border-radius: 30px;
+}
+#netherland button{
+    width: 130px;
+    height: 40px;
+    border-radius: 30px;
+
+}
+#visit{
+display: flex;
+gap:15px;
+}
+#visit img{
+border-radius: 20px;
+object-fit: cover;
+}
+#visit{
+position: relative;
+text-align: center;
+color: white;
+justify-content: center;
+}
+#florence {
+position: absolute;
+bottom: 20px;
+left: 16px;
+}
+#venice{
+    position: absolute;
+    bottom: 60px;
+    left: 16px;
+
+}
+#template{
+background-image: url("images/florence.jpg");
+background-size: cover;
+object-fit: cover;
+border-radius: 30px;
+}
+#templtes{
+background-image: url("images/venice.jpg");
+
+}
+
+#clients{
+display: flex;
+justify-content: space-evenly;
+
+}
+#reviews img{
+object-fit: cover;
+border-radius: 5px;
+}
+
+
+
+#clients span{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: x-large;
+font-weight: bold;
+}
+#reviews{
+display: flex;
+justify-content: space-evenly;
+text-align: center;
+}
+#blog{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+gap: 20px;
+background-image: url("mages/hlls.jpg");
+}
+
+#platform span{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+#platform p{
+    display: flex;
+    justify-content: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#form{
+height: 500px;
+width: 400px;
+background-color: aliceblue;
+margin-bottom: 100px;
+
+} 
+#form button{
+width: 250px;
+height: 40px;
+background-color: orange;
+border-radius: 30px;
+border: none;
+color: white;
+margin-left: 125px;
+}
+#form span{
+background-color: white;
+height: 90px;
+width: 90px;
+border-radius: 50%;
+color: black;
+font-size: medium;
+
+
+}
+#choose{
+  text-align: center;  
+}
+#choose span{
+font-size: 50px;
+font-weight: bold;
+
+}
+#log{
+ display: flex;  
+ gap: 20px;
+ justify-content: center;
+}
+#up button{
+background-color: white;
+width: 170px;
+border: none;
+height: 60px;
+border-radius: 30px;
+
+}
+#in button{ 
+background-color: orange;
+color: white;
+width: 170px;
+height: 60px;
+border-radius: 30px;
+border: none;
+
+}
+#us span{
+font-size: xx-large;
+margin-left: 250px;
+font-weight: bold;
+}
+#type{
+display: flex;
+justify-content: center;
+}
+#type button{
+    background-color: orange;
+    height: 80px;
+    width: 500px;
+    border-radius: 40px;
+    border-color: orange;
+    background-color: white;
+}
+#question{
+width: 800px;
+height: 400px;
+background-color: orange;
+color: white;
+margin-left: 20px;
+border-radius: 10px;
+}
+#date label{
+font-size: large;
+font-weight: bold;
+
+
+}
+#timeless span{
+font-size: x-large;
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#timeless img{
+width: 900px;
+
+}
+#question span{
+font-size: xx-large;
+}
+#format{
+display: flex;
+
+}
+#media img{
+height: 30px;
+width: 30px;
+}
+#footer{
+display: flex;
+justify-content: space-around;
+justify-content: center;
+gap: 100px;
+
+}
+#head span{
+font-weight: bold;
+font-size: larger;
+}
+#head {
+margin-top: 50px;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+#travel img{
+margin-top: 20px;
+
+}
+#rights span{
+color: grey;
+display: flex;
+justify-content: center;
+}
